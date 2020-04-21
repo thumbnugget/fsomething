@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf9edeba-abca-4d12-a7d8-548dd279f8d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/article2018.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/article2019.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/article2020.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freshstart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gamesadult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gamesall.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gamesfamily.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameskids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/SVG/nav logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/SVG/rrg_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/about.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/._page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/blog-home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/final.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/fresh.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/grid1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/grid2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/grid3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/grid4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/grid5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/midterm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/nav test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fbook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/future.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/future.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gloomhaven.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/igram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/igram1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kingT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kingoT.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/letter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/letter1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mctclogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mctclogowtext.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nav logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/placeholder.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rabidrabbit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rrg_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-bs-starter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nav test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1arguwEXNvEGuJ65rct15tENnDl" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf9edeba-abca-4d12-a7d8-548dd279f8d3" name="Default Changelist" comment="" />
+      <created>1587499352206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587499352206</updated>
+      <workItem from="1587499353466" duration="1110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

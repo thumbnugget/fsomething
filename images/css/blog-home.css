@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+  padding-top: 80px;
+  font-family: 'Saira Condensed', sans-serif;
+}
+
+body p {
+  font-family: 'Saira Condensed', sans-serif;
+}
+#logo {
+  height: 66px;
+}
+.navbar-nav {
+  background-color:rgb(1,13,38);
+  padding: 1px;
+}
+.form-inline {
+  margin-left: 130px;
+}
+.btn {
+  color: rgba(255,255,255,.5);
+}
+#fb {
+  width: 30px;
+  margin-left: 40px;
+}
+#twit {
+  width: 30px;
+  margin-left: 30px;
+}
+#igram {
+  width: 30px;
+  margin-left: 30px;
+}
+#mail {
+  height: 27px;
+  margin-left: 30px;
+  margin-bottom: 1px;
+
+}

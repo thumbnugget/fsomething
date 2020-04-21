@@ -1,0 +1,14 @@
+#container
+{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-auto-rows: 100px minmax(200px, 1fr) 100px;
+    grid-gap: 10px;
+}
+
+header, footer
+{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
