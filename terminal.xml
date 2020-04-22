@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="&quot;cmd&quot; /k &quot;&quot;full\path\to\vendor\init.bat&quot;&quot;" />
+  </component>
+</application>
